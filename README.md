@@ -72,8 +72,15 @@ image 10: Average Trip Duration by Birth Year
 
 ### Conclusion
 
+The bike sharing program in NYC showed success with a large subscriber base indicating that there are likely a lot of people in New York City who are utilizing the bikes for a daily commute. Casual users use the service to move between tourist spots on the weekends. This program would be successful in Des Moines if the working demographic is centralized in a downtown area where people would be using the bikes for their commutes. Additionally, success would rely heavily on the younger male population as they were the largest userbase of the CitiBike NYC program. Also, the program should focus on marketing the program to younger tourists as an alternative means of travel from one attraction to the next as well as females as an option for tourism or as part of their commute.
+
 
 
 #### Limitation of Data 
 
+The date only looks at the month of August in one year. It would be beneficial to look at longer time periods to see how successful a bikeshare company would do in a smaller city vs. NYC. What does bike usage look like in the winter months? Is there enough usage during summer months to makeup for slower months? 
+
+There is no pricing information. It is impossible to tell from this data if there is a profit to be made in bikesharing. Also, there is no information on the cost of bike maintenance or details about bike loss. How many bikes are stolen or damaged beyond repair? 
+
+We would want to look at details about Des Moines. What are the demographics like? Do people live in urban areas or suburban areas where they would likely need a car for their commute? What does tourism look like for Des Moines? 
 
