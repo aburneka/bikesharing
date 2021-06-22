@@ -22,6 +22,8 @@ The majority of riders appear to start rides in the Manhattan borough as seen in
 <img width="797" alt="Top  Starting Locations" src="https://user-images.githubusercontent.com/79999761/122859689-40acdb00-d2d1-11eb-8532-cd0df96a9f42.png">
 image 1: Top Starting Location
 
+
+
 The majority of clients taking rides in August (81%) have a subscription service, which is an annual pass, while 19% of clients used a 24-hour or 3 day pass (see images 3 and 4). 
 
 <img width="462" alt="Number of Subscribers" src="https://user-images.githubusercontent.com/79999761/122859703-46a2bc00-d2d1-11eb-9569-1c3cbbba2715.png">
@@ -37,6 +39,8 @@ Most trips were around 15 minutes long as seen in image 4.
 
 <img width="1034" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/79999761/122859875-91243880-d2d1-11eb-803a-63d05f6b86f7.png">
 image 4: Checkout Times for Users 
+
+
 
 The peak hours for August were from 8-10 AM and 5-7 PM EST: 
 
@@ -60,8 +64,15 @@ image 8: Trips by Gender (Weekday per Hour)
 <img width="1048" alt="Checko0ut Times by Gender" src="https://user-images.githubusercontent.com/79999761/122859845-85387680-d2d1-11eb-8fb5-256f1e06cebe.png">
 image 9: Checkout Times by Gender
 
+Image 10 shows the average trip duration for all users based on their reported year of birth. Users born between 1995-2003 have the highest average trip duration. There is a significant spike in users born after 1998 implying that younger populations in NYC may not own cars and are more likely to use the bikeshare service.
+
+<img width="890" alt="AVG Trip Duration by Birth Year " src="https://user-images.githubusercontent.com/79999761/122976768-9755fb80-d349-11eb-8776-0e0df35dd0ae.png">
+image 10: Average Trip Duration by Birth Year
+
 
 ### Conclusion
+
+
 
 #### Limitation of Data 
 
