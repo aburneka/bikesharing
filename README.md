@@ -31,16 +31,22 @@ image 2: Number of Subscribers
 image 3: Number of Customers
 
 
-## When are People Riding? 
+## When and for how long are people riding bikes? 
+
+Most trips were around 15 minutes long as seen in image 4. 
 
 <img width="1034" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/79999761/122859875-91243880-d2d1-11eb-803a-63d05f6b86f7.png">
 image 4: Checkout Times for Users 
+
+The peak hours for August were from 8-10 AM and 5-7 PM EST: 
 
 <img width="1035" alt="August Peek Hours" src="https://user-images.githubusercontent.com/79999761/122859884-941f2900-d2d1-11eb-8ec6-e416df092a55.png">
 image 5: August 2019 Peak Hours 
 
 
 ### Demographics 
+
+The majority of those using CitiBikes are doing soMonday - Friday in the mornings, from 8-10 AM, and early evening, 5-7 PM EST. Most clients checking out the bikes identified as male. 
 
 <img width="333" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/79999761/122859815-75b92d80-d2d1-11eb-87d5-0082a59b15c9.png">
 image 6: Gender Breakdown 
