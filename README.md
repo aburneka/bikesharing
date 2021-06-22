@@ -6,11 +6,14 @@ This proposal uses New York City bikesahring data from Citi Bike during the mont
 ## Resources
 
 Data: 201908-citibike-tripdata-modified.csv from the [Citi Bike System Data Page](https://www.citibikenyc.com/system-data)
+
 Software: Tableau Public, Jupyter Notebook, Python 3.7.6, VS Code
 
 Find the Visualizations in Tableau [here](https://public.tableau.com/views/Bikesharing_16242475431290/DesMoinesBikesharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## NYC Market Snapshot 
+## Analysis 
+
+### NYC Market Snapshot 
 
 
 <img width="797" alt="Top  Starting Locations" src="https://user-images.githubusercontent.com/79999761/122859689-40acdb00-d2d1-11eb-8532-cd0df96a9f42.png">
@@ -32,7 +35,7 @@ image 4: Checkout Times for Users
 image 5: August 2019 Peak Hours 
 
 
-## Demographics 
+### Demographics 
 
 <img width="333" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/79999761/122859815-75b92d80-d2d1-11eb-87d5-0082a59b15c9.png">
 image 6: Gender Breakdown 
@@ -47,8 +50,8 @@ image 8: Trips by Gender (Weekday per Hour)
 image 9: Checkout Times by Gender
 
 
-## Conclusion
+### Conclusion
 
-### Limitation of Data 
+#### Limitation of Data 
 
 
