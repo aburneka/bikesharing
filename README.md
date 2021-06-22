@@ -15,9 +15,14 @@ Find the Visualizations in Tableau [here](https://public.tableau.com/views/Bikes
 
 ### NYC Market Snapshot 
 
+There were 2,344,224 rides taken in August of 2019. 
+
+The majority of riders appear to start rides in the Manhattan borough as seen in image 1: 
 
 <img width="797" alt="Top  Starting Locations" src="https://user-images.githubusercontent.com/79999761/122859689-40acdb00-d2d1-11eb-8532-cd0df96a9f42.png">
 image 1: Top Starting Location
+
+The majority of clients taking rides in August (81%) have a subscription service, which is an annual pass, while 19% of clients used a 24-hour or 3 day pass (see images 3 and 4). 
 
 <img width="462" alt="Number of Subscribers" src="https://user-images.githubusercontent.com/79999761/122859703-46a2bc00-d2d1-11eb-9569-1c3cbbba2715.png">
 image 2: Number of Subscribers
